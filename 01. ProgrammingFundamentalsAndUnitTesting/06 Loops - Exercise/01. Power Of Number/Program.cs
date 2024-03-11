@@ -1,0 +1,1 @@
+﻿Console.WriteLine(Math.Pow(int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine())));

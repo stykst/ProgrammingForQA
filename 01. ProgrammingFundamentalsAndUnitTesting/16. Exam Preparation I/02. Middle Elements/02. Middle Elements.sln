@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Middle Elements", "02. Middle Elements\02. Middle Elements.csproj", "{A759BA3B-DF9F-4E9C-B060-939A5C80DED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A759BA3B-DF9F-4E9C-B060-939A5C80DED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A759BA3B-DF9F-4E9C-B060-939A5C80DED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A759BA3B-DF9F-4E9C-B060-939A5C80DED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A759BA3B-DF9F-4E9C-B060-939A5C80DED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B99C7C7-87BA-401F-8DA9-15053E6D11B4}
+	EndGlobalSection
+EndGlobal

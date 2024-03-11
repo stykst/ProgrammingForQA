@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rotations", "02. Rotations\02. Rotations.csproj", "{26FDC052-5116-4E6A-98B0-6B82916CF450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26FDC052-5116-4E6A-98B0-6B82916CF450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FDC052-5116-4E6A-98B0-6B82916CF450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FDC052-5116-4E6A-98B0-6B82916CF450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FDC052-5116-4E6A-98B0-6B82916CF450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1902356-BB72-49D0-B035-7436B1082A06}
+	EndGlobalSection
+EndGlobal
